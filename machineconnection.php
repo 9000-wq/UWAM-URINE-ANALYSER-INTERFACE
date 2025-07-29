@@ -1,7 +1,9 @@
 <?php
 include('mode.php');
 include('IQ200.php');
-
+include('IQ200TestDefination.php');
+include('Obervation.php');
+include('connecting.php');
 include('functions.php');
 
 $Orderid = "";
